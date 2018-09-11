@@ -1,4 +1,4 @@
-# 🔥ror-simple-blog
+# 🚂ror-simple-blog
 
 [![Build Status][ico-travis]][link-travis]
 [![License][ico-license]][link-license]
