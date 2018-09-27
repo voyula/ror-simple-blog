@@ -22,7 +22,7 @@ $ rails server
 ```
 Your app should now be running on [http://localhost:3000/](http://localhost:3000/)
 
-### EER Diagram
+### 🍭 EER Diagram
 <img src="https://raw.githubusercontent.com/voyula/ror-simple-blog/master/diagram.png">
 
 ### 📜 Standards
