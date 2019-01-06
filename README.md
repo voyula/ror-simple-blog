@@ -7,7 +7,7 @@ Simple blog based on Rails.
 
 ## ⚡ Installation
 
-Via GIT
+Via [GIT](https://git-scm.com/) & [Bundler](https://bundler.io/)
 
 ```bash
 $ git clone https://github.com/voyula/ror-simple-blog.git
